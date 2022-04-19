@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         I love you, Fernanda <3 <br/>
-        Meu primeiro deploy de React Js.. kkkk
+        Testando Heroku App para deploy de um App React Js.. kkkk
       </header>
     </div>
   );
