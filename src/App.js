@@ -57,7 +57,7 @@ class App extends Component{
 
         ))}
         </div>
-        <a onClick={this.addProduct} href="#">See More Products, CLick Here.</a>
+        <a onClick={this.addProduct} href="#">See More Products, CLick Here, OK.</a>
       </>
     );
   }
