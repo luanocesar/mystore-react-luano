@@ -1,0 +1,17 @@
+.Product {
+    background-color:azure;
+    padding: 4px;
+    margin: 2px;
+    border: 1px solid #555;
+    width: 20em;
+    height: 24em;
+    text-align: center;
+    margin:0 auto;
+}
+
+.ProductImage {
+    width: 14em;
+    height: 10em;
+    padding: 4px;
+    border: 1px solid #555;
+}
